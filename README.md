@@ -7,6 +7,6 @@ This program is a text reader simple, and the code is very simple,your are free 
 Lector_De_Texto/src/main/java/Main
 
 =========================
-
+Text Reader is like a Block Note
 
 This proyect is made in Apache NetBeans(Java).
